@@ -16,3 +16,7 @@ This project aims to constantly fetch data from spotify API and provide analytic
 2. ADF : Azure data Factory to load the data from ALDS to Azure Synapse
 3. Azure Synapse : once the data is loaded to Syanpse , we need to perform analytics on that. 
 4. Azure Functions : Creat a timer based trigger to constantly retrieve data from spotify API.
+
+## Architecture Diagram
+![image](https://github.com/user-attachments/assets/d1e8b650-5fe2-458c-a50e-2f4349e0144a)
+
